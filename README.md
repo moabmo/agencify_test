@@ -94,7 +94,7 @@ The variable total is an integer, and when dividing it by numbers.length, the re
 
  
 ======================================================================================================================
-Some of the projects I have done are in my repository and here is a list of those I have taken part in:
+Some of the projects I have done are in my repository and here is a list of some of those I have taken part in:
 * https://www.kesra.ac.ke/merchandise/
 * https://eparticipation.kisii.go.ke/
   
